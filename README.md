@@ -1,7 +1,7 @@
 # Our community
-Group facebook: https://www.facebook.com/groups/lerni/
+Group facebook: 
 
-Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
+Youtube channel: 
 # Folder structor
 ```
 ├── news                    
