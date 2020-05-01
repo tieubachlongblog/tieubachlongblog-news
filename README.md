@@ -11,4 +11,4 @@ Youtube channel:
 ├── facebook.js             # Api Facebook
 └── ...
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/namttdh/lerni-fb-bot-news)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tieubachlongblog/tieubachlongblog-news/)
